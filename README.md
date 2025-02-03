@@ -7,4 +7,4 @@ Example of game: \
 White - Simple_ChessAI \
 Black - Chess.com 550 engine
 
-![](game_vs_550.gif)
+![](/data/game_vs_550.gif)
